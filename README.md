@@ -11,3 +11,5 @@ Setelah router dikonfigurasi dengan alamat IP pada masing-masing interface dan d
 Router R1 memiliki interface GigabitEthernet0/0/1 dengan alamat 192.168.1.1 sebagai gateway untuk PC-A, dan interface GigabitEthernet0/0/0 dengan alamat 192.168.0.1 sebagai gateway untuk PC-B.
 Dengan konfigurasi tersebut, router dapat melakukan routing antar subnet, sehingga ketika dilakukan ping kembali dari PC-A ke PC-B, paket ICMP berhasil dikirim dan menerima balasan.
 Hal ini menunjukkan bahwa konektivitas antar jaringan sudah berfungsi dengan baik.
+
+https://youtu.be/UeVusyHmvwQ
